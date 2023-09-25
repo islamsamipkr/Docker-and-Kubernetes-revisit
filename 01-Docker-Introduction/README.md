@@ -4,7 +4,6 @@
 - What problems we have with Traditional Infra?
 - Why do we need to use Docker? 
 - What are advantages of using Docker?
--  For introduction slides refer the [presentation slides](/otherfiles/presentation/Docker-Fundamentals-v1.pdf). 
 
 
 # Docker Architecture
