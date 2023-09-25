@@ -15,5 +15,5 @@
 - What are Docker Images?
 - What are Docker Containers?
 - What is Docker Registry or Docker Hub?
--  Refer the [presentation slides](/otherfiles/presentation/Docker-Fundamentals-v1.pdf). 
+
 
